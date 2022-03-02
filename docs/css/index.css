@@ -831,7 +831,7 @@ html > body .poster-box .swiper-button-disabled {
   color: #a8a8a8;
 }
 
-.list-1 > li li > a::before {
+.list-1 > li li > div::before {
   content: "";
   position: absolute;
   left: 2px;
